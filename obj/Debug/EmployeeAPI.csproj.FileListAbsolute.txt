@@ -1,0 +1,113 @@
+C:\Users\Dev-05\Documents\TOHEY\EmployeeAPI\bin\ApplicationInsights.config
+C:\Users\Dev-05\Documents\TOHEY\EmployeeAPI\bin\EmployeeAPI.dll.config
+C:\Users\Dev-05\Documents\TOHEY\EmployeeAPI\bin\EmployeeAPI.dll
+C:\Users\Dev-05\Documents\TOHEY\EmployeeAPI\bin\EmployeeAPI.pdb
+C:\Users\Dev-05\Documents\TOHEY\EmployeeAPI\bin\Antlr3.Runtime.dll
+C:\Users\Dev-05\Documents\TOHEY\EmployeeAPI\bin\EntityFramework.dll
+C:\Users\Dev-05\Documents\TOHEY\EmployeeAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\Dev-05\Documents\TOHEY\EmployeeAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Dev-05\Documents\TOHEY\EmployeeAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Dev-05\Documents\TOHEY\EmployeeAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Dev-05\Documents\TOHEY\EmployeeAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Dev-05\Documents\TOHEY\EmployeeAPI\bin\Microsoft.AI.Web.dll
+C:\Users\Dev-05\Documents\TOHEY\EmployeeAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Dev-05\Documents\TOHEY\EmployeeAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Dev-05\Documents\TOHEY\EmployeeAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dev-05\Documents\TOHEY\EmployeeAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dev-05\Documents\TOHEY\EmployeeAPI\bin\Newtonsoft.Json.dll
+C:\Users\Dev-05\Documents\TOHEY\EmployeeAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Dev-05\Documents\TOHEY\EmployeeAPI\bin\System.Web.Cors.dll
+C:\Users\Dev-05\Documents\TOHEY\EmployeeAPI\bin\System.Web.Helpers.dll
+C:\Users\Dev-05\Documents\TOHEY\EmployeeAPI\bin\System.Web.Http.Cors.dll
+C:\Users\Dev-05\Documents\TOHEY\EmployeeAPI\bin\System.Web.Http.dll
+C:\Users\Dev-05\Documents\TOHEY\EmployeeAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Dev-05\Documents\TOHEY\EmployeeAPI\bin\System.Web.Mvc.dll
+C:\Users\Dev-05\Documents\TOHEY\EmployeeAPI\bin\System.Web.Optimization.dll
+C:\Users\Dev-05\Documents\TOHEY\EmployeeAPI\bin\System.Web.Razor.dll
+C:\Users\Dev-05\Documents\TOHEY\EmployeeAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dev-05\Documents\TOHEY\EmployeeAPI\bin\System.Web.WebPages.dll
+C:\Users\Dev-05\Documents\TOHEY\EmployeeAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dev-05\Documents\TOHEY\EmployeeAPI\bin\WebGrease.dll
+C:\Users\Dev-05\Documents\TOHEY\EmployeeAPI\bin\EntityFramework.xml
+C:\Users\Dev-05\Documents\TOHEY\EmployeeAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\Dev-05\Documents\TOHEY\EmployeeAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dev-05\Documents\TOHEY\EmployeeAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Dev-05\Documents\TOHEY\EmployeeAPI\bin\System.Web.Http.xml
+C:\Users\Dev-05\Documents\TOHEY\EmployeeAPI\bin\System.Web.Http.Cors.xml
+C:\Users\Dev-05\Documents\TOHEY\EmployeeAPI\bin\Newtonsoft.Json.xml
+C:\Users\Dev-05\Documents\TOHEY\EmployeeAPI\bin\System.Web.Helpers.xml
+C:\Users\Dev-05\Documents\TOHEY\EmployeeAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Dev-05\Documents\TOHEY\EmployeeAPI\bin\System.Web.Mvc.xml
+C:\Users\Dev-05\Documents\TOHEY\EmployeeAPI\bin\System.Web.Optimization.xml
+C:\Users\Dev-05\Documents\TOHEY\EmployeeAPI\bin\System.Web.Razor.xml
+C:\Users\Dev-05\Documents\TOHEY\EmployeeAPI\bin\System.Web.WebPages.xml
+C:\Users\Dev-05\Documents\TOHEY\EmployeeAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dev-05\Documents\TOHEY\EmployeeAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dev-05\Documents\TOHEY\EmployeeAPI\bin\Antlr3.Runtime.pdb
+C:\Users\Dev-05\Documents\TOHEY\EmployeeAPI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Dev-05\Documents\TOHEY\EmployeeAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Dev-05\Documents\TOHEY\EmployeeAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Dev-05\Documents\TOHEY\EmployeeAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Dev-05\Documents\TOHEY\EmployeeAPI\bin\Microsoft.AI.Web.xml
+C:\Users\Dev-05\Documents\TOHEY\EmployeeAPI\obj\Debug\EmployeeAPI.csprojResolveAssemblyReference.cache
+C:\Users\Dev-05\Documents\TOHEY\EmployeeAPI\obj\Debug\EmployeeAPI.csproj.CoreCompileInputs.cache
+C:\Users\Dev-05\Documents\TOHEY\EmployeeAPI\obj\Debug\EmployeeAPI.dll
+C:\Users\Dev-05\Documents\TOHEY\EmployeeAPI\obj\Debug\EmployeeAPI.pdb
+C:\Users\Dev-05\Documents\New folder\EmployeeAPI\bin\ApplicationInsights.config
+C:\Users\Dev-05\Documents\New folder\EmployeeAPI\bin\EmployeeAPI.dll.config
+C:\Users\Dev-05\Documents\New folder\EmployeeAPI\bin\EmployeeAPI.dll
+C:\Users\Dev-05\Documents\New folder\EmployeeAPI\bin\EmployeeAPI.pdb
+C:\Users\Dev-05\Documents\New folder\EmployeeAPI\bin\Antlr3.Runtime.dll
+C:\Users\Dev-05\Documents\New folder\EmployeeAPI\bin\EntityFramework.dll
+C:\Users\Dev-05\Documents\New folder\EmployeeAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\Dev-05\Documents\New folder\EmployeeAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Dev-05\Documents\New folder\EmployeeAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Dev-05\Documents\New folder\EmployeeAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Dev-05\Documents\New folder\EmployeeAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Dev-05\Documents\New folder\EmployeeAPI\bin\Microsoft.AI.Web.dll
+C:\Users\Dev-05\Documents\New folder\EmployeeAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Dev-05\Documents\New folder\EmployeeAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Dev-05\Documents\New folder\EmployeeAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dev-05\Documents\New folder\EmployeeAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dev-05\Documents\New folder\EmployeeAPI\bin\Newtonsoft.Json.dll
+C:\Users\Dev-05\Documents\New folder\EmployeeAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Dev-05\Documents\New folder\EmployeeAPI\bin\System.Web.Cors.dll
+C:\Users\Dev-05\Documents\New folder\EmployeeAPI\bin\System.Web.Helpers.dll
+C:\Users\Dev-05\Documents\New folder\EmployeeAPI\bin\System.Web.Http.Cors.dll
+C:\Users\Dev-05\Documents\New folder\EmployeeAPI\bin\System.Web.Http.dll
+C:\Users\Dev-05\Documents\New folder\EmployeeAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Dev-05\Documents\New folder\EmployeeAPI\bin\System.Web.Mvc.dll
+C:\Users\Dev-05\Documents\New folder\EmployeeAPI\bin\System.Web.Optimization.dll
+C:\Users\Dev-05\Documents\New folder\EmployeeAPI\bin\System.Web.Razor.dll
+C:\Users\Dev-05\Documents\New folder\EmployeeAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dev-05\Documents\New folder\EmployeeAPI\bin\System.Web.WebPages.dll
+C:\Users\Dev-05\Documents\New folder\EmployeeAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dev-05\Documents\New folder\EmployeeAPI\bin\WebGrease.dll
+C:\Users\Dev-05\Documents\New folder\EmployeeAPI\bin\EntityFramework.xml
+C:\Users\Dev-05\Documents\New folder\EmployeeAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\Dev-05\Documents\New folder\EmployeeAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dev-05\Documents\New folder\EmployeeAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Dev-05\Documents\New folder\EmployeeAPI\bin\System.Web.Http.xml
+C:\Users\Dev-05\Documents\New folder\EmployeeAPI\bin\System.Web.Http.Cors.xml
+C:\Users\Dev-05\Documents\New folder\EmployeeAPI\bin\Newtonsoft.Json.xml
+C:\Users\Dev-05\Documents\New folder\EmployeeAPI\bin\System.Web.Helpers.xml
+C:\Users\Dev-05\Documents\New folder\EmployeeAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Dev-05\Documents\New folder\EmployeeAPI\bin\System.Web.Mvc.xml
+C:\Users\Dev-05\Documents\New folder\EmployeeAPI\bin\System.Web.Optimization.xml
+C:\Users\Dev-05\Documents\New folder\EmployeeAPI\bin\System.Web.Razor.xml
+C:\Users\Dev-05\Documents\New folder\EmployeeAPI\bin\System.Web.WebPages.xml
+C:\Users\Dev-05\Documents\New folder\EmployeeAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dev-05\Documents\New folder\EmployeeAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dev-05\Documents\New folder\EmployeeAPI\bin\Antlr3.Runtime.pdb
+C:\Users\Dev-05\Documents\New folder\EmployeeAPI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Dev-05\Documents\New folder\EmployeeAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Dev-05\Documents\New folder\EmployeeAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Dev-05\Documents\New folder\EmployeeAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Dev-05\Documents\New folder\EmployeeAPI\bin\Microsoft.AI.Web.xml
+C:\Users\Dev-05\Documents\New folder\EmployeeAPI\obj\Debug\EmployeeAPI.Migrations.EmployeeDB.resources
+C:\Users\Dev-05\Documents\New folder\EmployeeAPI\obj\Debug\EmployeeAPI.csproj.GenerateResource.cache
+C:\Users\Dev-05\Documents\New folder\EmployeeAPI\obj\Debug\EmployeeAPI.csproj.CoreCompileInputs.cache
+C:\Users\Dev-05\Documents\New folder\EmployeeAPI\obj\Debug\EmployeeAPI.csproj.CopyComplete
+C:\Users\Dev-05\Documents\New folder\EmployeeAPI\obj\Debug\EmployeeAPI.dll
+C:\Users\Dev-05\Documents\New folder\EmployeeAPI\obj\Debug\EmployeeAPI.pdb
+C:\Users\Dev-05\Documents\New folder\EmployeeAPI\obj\Debug\EmployeeAPI.csprojAssemblyReference.cache
