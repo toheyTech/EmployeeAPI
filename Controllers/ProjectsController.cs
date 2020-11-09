@@ -22,7 +22,7 @@ namespace EmployeeAPI.Controllers
         [Route("GetProjectDetails")]
         public IEnumerable<Project> GetProjects()
         {
-            return db.Projects.ToList();
+            return db.Projects.OrderByDescending(x => x.Id);
         }
 
         // GET: api/Projects/5

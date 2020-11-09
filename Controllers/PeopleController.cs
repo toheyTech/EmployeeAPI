@@ -23,14 +23,35 @@ namespace EmployeeAPI.Controllers
         [Route("GetPeopleDetails")]
         public IQueryable<Person> GetPeople()
         {
-            return db.People;
+            //var person = db.People.Include(per => per.Projects).ToList();
+            return db.People.OrderByDescending(x => x.Code);
         }
 
+        // GET: api/People
+        [HttpGet]
+        [Route("GetPeopleDetailWithProjects")]
+        public IQueryable<Person> GetPeopleWithProject()
+        {
+            //var person = db.People.Include(per => per.Projects).ToList();
+            return db.People.Include(pr => pr.Projects).OrderByDescending(x => x.Code);
+        }
+
+
         // GET: api/People/5
+        [HttpGet]
+        [Route("GetPeopleDetailById/{id}")]
         [ResponseType(typeof(Person))]
         public IHttpActionResult GetPerson(int id)
         {
-            Person person = db.People.Find(id);
+            // Project project = new Project();
+            //project = db.Projects.Find(id);
+
+            //if (project.Code != id) {
+            //    project = db.Projects.Find(id);
+            //}
+
+            var person = db.People.Include(per => per.Projects).Where(pr => pr.Code == id).ToList().OrderByDescending(x => x.Code);
+            
             if (person == null)
             {
                 return NotFound();
@@ -54,7 +75,8 @@ namespace EmployeeAPI.Controllers
             {
                 return BadRequest();
             }
-
+            person.Projects = person.Projects;
+            db.People.Add(person);
             db.Entry(person).State = EntityState.Modified;
 
             try
@@ -87,11 +109,11 @@ namespace EmployeeAPI.Controllers
             {
                 return BadRequest(ModelState);
             }
-            List<Project> project = new List<Project>();
-            project.Add(new Project { Name = "da", Description = "da"});
-            project.Add(new Project { Name = "da", Description = "da"});
+            //List<Project> project = new List<Project>();
+            //project.Add(new Project { Name = "da", Description = "da"});
+            //project.Add(new Project { Name = "da", Description = "da"});
             
-            person.Projects = project;
+            person.Projects = person.Projects;
             db.People.Add(person);
             db.SaveChanges();
 
